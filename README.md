@@ -1,0 +1,2 @@
+The project works on preprocessing the data we have to deduce the heart disease predection rate using one-hot encoding technique and selecting independent and dependent features and extracting and selecting features using univariate feature selection and then we remove outliers and then standarize the features
+we use 4 models here (Logistic regression , SVM , Decision Tree and Random Forest) where we deduce the confusion_matrix , classification_report , mean_squared_error , accuracy_score
